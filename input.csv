@@ -1,0 +1,7 @@
+id,name,department,status
+1,John Doe,Engineering,Active
+2,Jane Smith,HR,Active
+3,Bob Jones,Engineering,Inactive
+4,Alice Brown,Marketing,Active
+5,,Sales,Active
+6,Charlie Black,Engineering,Active
