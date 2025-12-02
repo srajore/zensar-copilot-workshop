@@ -1,6 +1,9 @@
-# utils.py
-import random
-
-# INSTRUCTION FOR DEMO:
-# Type the following comment below and wait for the GhostText (Gray text):
-# Create a list of even numbers from 1 to 100
+# could you write a code for testing wheter the number is prime or not
+def is_prime(n):
+    """Check if a number is prime."""
+    if n < 1:
+        return False
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            return False
+    return True

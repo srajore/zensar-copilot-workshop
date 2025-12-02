@@ -1,0 +1,8 @@
+From: Client
+Subject: Updated Billing Rules
+
+Hi team, we need to update the billing logic ASAP.
+VIP members should get 20% off, but regular members only get 5%.
+Also, we are expanding to California. The tax rate there is 7.25%.
+New York tax remains at 8%.
+Make sure we don't apply discounts to the tax amount.

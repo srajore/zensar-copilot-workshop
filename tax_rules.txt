@@ -1,0 +1,8 @@
+Region: NY
+Tax Rate: 0.08 (8%)
+
+Region: CA
+Tax Rate: 0.0725 (7.25%)
+
+Region: Other
+Tax Rate: 0.00 (0%)
